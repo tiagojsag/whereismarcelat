@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="robots" content="noindex,nofollow" />
+        <title>Is Marcel on his place?</title>
+        <link rel="stylesheet" href="css.css" />
+    </head>
+    <body>
+        <div class="background"></div>
+        <h1 class="answer"><span class="question">Where is Marcel at?</span><br><br><span id="answer-placeholder" /></h1>
+    </body>
+    <script>
+    var answers = [
+        'Not on his place',
+        'In the bathroom',
+        'Team leader meeting',
+        'He who must not be named took him',
+        "Don't know",
+        'Ask Cremer, he knows where Marcel is',
+        'Why do you ask me?',
+        'Narnia',
+        'The matrix'
+    ];
+
+    var answer = answers[Math.floor(Math.random()*answers.length)];
+    document.getElementById("answer-placeholder").innerHTML = answer;
+    </script>
+</html>
