@@ -8,7 +8,15 @@
         'Ask Cremer, he knows where Marcel is',
         'Why do you ask me?',
         'Narnia',
-        'The matrix'
+        'The matrix',
+        'Marriage preparations',
+        'His stag party',
+        'On Vacation… again',
+        'Sprint planning meeting',
+        'Moving tickets around with SK',
+        'Stand-up meeting',
+        'Lunch',
+        'Dorfgrill'
     );
 ?>
 
