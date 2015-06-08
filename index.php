@@ -16,7 +16,8 @@
         'Moving tickets around with SK',
         'Stand-up meeting',
         'Lunch',
-        'Dorfgrill'
+        'Dorfgrill',
+        'He should be cleaning the mess behind his desk... but he is not'
     );
 ?>
 
