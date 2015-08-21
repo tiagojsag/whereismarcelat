@@ -16,7 +16,14 @@
         'Stand-up meeting',
         'Lunch',
         'Dorfgrill',
-        'He should be cleaning the mess behind his desk... but he is not'
+        'He should be cleaning the mess behind his desk... but he is not',
+        'STFU and ask someone else!',
+        'Have you tried googling it?',
+        'Friday Session',
+        'Have you looked under his table?',
+        'Call his wife, she will tell you where he is... No, I\'m not his wife!',
+        'Hunting frogs in the garden',
+        'Honestly, I don\'t care'
     );
 ?>
 
