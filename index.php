@@ -23,7 +23,14 @@
         'Have you looked under his table?',
         'Call his wife, she will tell you where he is... No, I\'m not his wife!',
         'Hunting frogs in the garden',
-        'Honestly, I don\'t care'
+        'Honestly, I don\'t care',
+        'Searching for his wedding ring',
+        'Pssst, he is asleep, do not wake him!',
+        'Do I get a buck if I tell you that?',
+        'Delegating some trainees',
+        'I do not know where he is now, but you will see him in your nightmares!',
+        'Hunting ghosts in an abandoned castle',
+        'Netflix and Chill'
     );
 ?>
 
