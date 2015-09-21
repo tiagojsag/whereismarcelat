@@ -30,7 +30,11 @@
         'Delegating some trainees',
         'I do not know where he is now, but you will see him in your nightmares!',
         'Hunting ghosts in an abandoned castle',
-        'Netflix and Chill'
+        'Netflix and Chill',
+        'I know it but I will not tell you!',
+        'Oh, not you again! I already told you were he is!',
+        'Try to ask the magic conch shell',
+        'What ever he told you - trust me - he is somewhere else'
     );
 ?>
 
