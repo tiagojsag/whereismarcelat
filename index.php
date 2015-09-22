@@ -25,16 +25,16 @@
         'Hunting frogs in the garden',
         'Honestly, I don\'t care',
         'Searching for his wedding ring',
-        'Pssst, he\'s asleep, do not wake him!',
+        'Pssst, he\'s asleep, do not wake him up!',
         'Do I get a buck if I tell you that?',
         'Delegating some trainees',
         'I don\'t know where he is now, but you will see him in your nightmares!',
         'Hunting ghosts in an abandoned castle',
         'Netflix and Chill',
         'I know it but I won\'t tell you!',
-        'Oh, not you again! I already told you were he is!',
+        'Oh, not you again! I already told you where he is!',
         'Try to ask the magic conch shell',
-        'What ever he told you - trust me - he is somewhere else'
+        'Whatever he told you - trust me - he is somewhere else'
     );
 ?>
 
