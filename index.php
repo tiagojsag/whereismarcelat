@@ -5,7 +5,7 @@
         'Team leader meeting',
         'He who must not be named took him',
         "Don't know",
-        'Ask Cremer, he knows where Marcel is',
+        'Ask Jan, he knows where Nögel is',
         'Why do you ask me?',
         'Narnia',
         'The matrix',
@@ -42,11 +42,11 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="robots" content="noindex,nofollow" />
-        <title>Is Marcel on his place?</title>
+        <title>Is Nögel on his place?</title>
         <link rel="stylesheet" href="css.css" />
     </head>
     <body>
         <div class="background"></div>
-        <h1 class="answer"><span class="question">Where is Marcel at?</span><br><br><?php echo $answers[array_rand($answers)]; ?></h1>
+        <h1 class="answer"><span class="question">Where is Nögel at?</span><br><br><?php echo $answers[array_rand($answers)]; ?></h1>
     </body>
 </html>

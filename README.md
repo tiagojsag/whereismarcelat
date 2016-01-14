@@ -1,6 +1,6 @@
-# Where is Marcel at?
+# Where is Nögel at?
 
-Source code for http://whereismarcel.at
+Source code for http://whereisnoegel.at
 
-Think you saw Marcel somewhere else? Add your PR!
+Think you saw Nögel somewhere else? Add your PR!
 
